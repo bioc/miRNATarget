@@ -1,7 +1,7 @@
 Package: miRNATarget
 Title: gene target tabale of miRNA for human/mouse used for MiRaGE
         package
-Version: 1.35.0
+Version: 1.36.0
 Author: Y-h. Taguchi <tag@granular.com>
 Description: gene target tabale of miRNA for human/mouse used for MiRaGE package
 Maintainer: Y-h. Taguchi <tag@granular.com>
